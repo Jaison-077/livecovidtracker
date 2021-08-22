@@ -130,6 +130,22 @@ h1{
     .card__main{
         width: 500px;
     }
+
+    .box__2 .card__small{
+        font-size: 55px;
+    }
+
+    .box__3 .card__small{
+        font-size: 55px;
+    }
+
+    .box__4 .card__small{
+        font-size: 55px;
+    }
+
+    .box__5 .card__small{
+        font-size: 55px;
+    }
 }
 
 @media screen and (max-width:246px){
